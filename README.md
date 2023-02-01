@@ -10,3 +10,4 @@ I'm Emma, a data scientist working on some fun personal projects.
 - 🌱 I’m currently learning PySpark for ML
 - 🌱 When I'm not coding, I'm climbing!
 
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
