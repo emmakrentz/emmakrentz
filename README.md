@@ -7,6 +7,6 @@ I'm Emma, a data scientist working on some fun personal projects.
 
 - 🌱 based in SF
 - 🌱 studying recommender systems and ethical AI
-- 🌱 integrating ML with robotics
+- 🌱 always integrating ML with robotics
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
